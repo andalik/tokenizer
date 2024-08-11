@@ -1,0 +1,4 @@
+wxPython
+tiktoken
+PyPDF2
+requests
