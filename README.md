@@ -15,3 +15,12 @@ Tokenizer é um script desenvolvido em Python3 que calcula a quantidade de token
 
 ![tokenizer](https://github.com/andalik/tokenizer/blob/main/screenshots/tokenizer.png)
 
+## Instalação:
+
+```bash
+git clone https://github.com/andalik/tokenizer.git
+cd tokenizer
+pip install -r requirements.txt
+python3 tokenizer.py
+```
+
