@@ -10,6 +10,7 @@ d888888P          88b
 </pre>
 
 Tokenizer é um script desenvolvido em Python3 que calcula a quantidade de tokens em um texto ou arquivo de texto nos formatos txt, md ou pdf).
+
 É uma ferramenta útil para verificar se um arquivo pode ser processado integralmente dentro da janela de contexto de uma LLM, ou para determinar a quantidade de tokens em um input ou output, facilitando o cálculo de custos.
 
 ![tokenizer](https://github.com/andalik/tokenizer/blob/main/screenshots/tokenizer.png)
